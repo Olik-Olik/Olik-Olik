@@ -17,34 +17,32 @@ Hello, I am Olga, web developer.
 
 Skills and Tools
 
-<img align = "left" width = "26 px" alt = "css"  src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align = "left" width = "36 px" alt = "css"  src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <br />
-<img align = "left" width = "26 px" alt = "js" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align = "left" width = "36 px" alt = "js" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <br />
-<img align = "left" width = "26 px" alt = "react" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align = "left" width = "36 px" alt = "react" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
-<img align = "left" width = "26 px" alt = "nodejs " src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align = "left" width = "36 px" alt = "nodejs " src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <br />
-<img align = "left" width = "26 px" alt = "bash" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" />
+<img align = "left" width = "36 px" alt = "bash" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" />
 <br />
-<img align = "left" width = "26 px" alt = "express" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />
+<img align = "left" width = "36 px" alt = "express" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />
 
-<img align = "left" width = "26 px" alt = "eslint" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png" />
+<img align = "left" width = "36 px" alt = "eslint" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png" />
 <br />
-<img align = "left" width = "26 px" alt = "git" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align = "left" width = "36 px" alt = "git" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <br />
+<img align = "left" width = "36 px" alt = "html " src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
 <br />
-<img align = "left" width = "26 px" alt = "html " src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
-
 <img align = "left" width = "36 px" alt = "mongoose" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png"/>
-
-
+<br />
 <img align = "left" width = "36 px" alt = "mongodb" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"/>
-
-<img align = "left" width = "26 px" alt = "jira" src ="https://cdn-icons-png.flaticon.com/128/5968/5968875.png"/>
-
-<img align = "left" width = "26 px" alt = "figma" src ="https://cdn-icons-png.flaticon.com/128/5968/5968705.png"/>
-
+<br />
+<img align = "left" width = "36 px" alt = "jira" src ="https://cdn-icons-png.flaticon.com/128/5968/5968875.png"/>
+<br />
+<img align = "left" width = "36 px" alt = "figma" src ="https://cdn-icons-png.flaticon.com/128/5968/5968705.png"/>
+<br />
 <br />
 <br />
 <br />
