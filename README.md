@@ -59,39 +59,27 @@ Like:
 
 
 -Asia
-
 -Japanese
-
 -Travel
-
+<br />
+<br />
 The last books read:
-
 -"Java Script" K. Chinnathambi
-
 -"Java Script" E. Freeman E. Rozon
-
 -"Testing dot Com" by R. Savin
-
 -"Java" D. Loch
-
 -"Agile Project Evaluation and Planning" by M. Kon
-
-
-
+<br />
+<br />
 Sports:
-
 -Aikido
-
 -Yoga
-
 -Golf
-
 -Horse riding
-
 -Rock-climbing
-
 -Yachting
-
+<br />
+<br />
 You can contact me:
 [<img align = "left" width = "26 px" alt = "linkedin" src = "https://cdn-icons-png.flaticon.com/512/145/145807.png" />]https://www.linkedin.com/in/olga-sanina-3
 
