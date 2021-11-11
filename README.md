@@ -64,7 +64,7 @@ Sports:
 -Yachting
 
 You can contact me:
-[<img align = "left" width = "26 px" alt = "linkedin" src = "https://cdn-icons-png.flaticon.com/512/145/145807.png" />][linkedin]
+[<img align = "left" width = "26 px" alt = "linkedin" src = "https://cdn-icons-png.flaticon.com/512/145/145807.png" />]https://www.linkedin.com/in/olga-sanina-3
 
 [<img align = "left" width = "26 px" alt = "facebook" src = "https://cdn-icons-png.flaticon.com/128/145/145802.png" />]
 
@@ -72,6 +72,3 @@ You can contact me:
 
 [<img align = "left" width = "26 px" alt = "tw" src = "https://cdn-icons-png.flaticon.com/128/1409/1409946.png" />]
 
-[facebook]: 
-[linkedin]: https://www.linkedin.com/in/olga-sanina-3
-[instagram]: 
