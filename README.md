@@ -1,4 +1,4 @@
-### Hi there 👋
+Hi there 👋
 
 <!--
 **Olik-Olik/Olik-Olik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,9 +13,9 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hello, I am Olga, web developer.
+Hello, I am Olga, web developer.
 
-## Skills and Tools
+Skills and Tools
 
 <img align = "left" width = "26 px" alt = "css"  src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 
@@ -43,19 +43,19 @@
 
 <img align = "left" width = "26 px" alt = "figma" src ="https://cdn-icons-png.flaticon.com/128/5968/5968705.png"/>
 
-##Like:
-#####-Asia
-#####-Japanese
-#####-Travel 
+Like:
+Asia
+Japanese
+Travel 
 
-##The last books read:
-#####-"Java Script" K. Chinnathambi
-#####-"Java Script" E. Freeman E. Rozon.
-#####-"Testing dot Com" by R. Savin
-#####-"Java" D. Loch
-#####-"Agile Project Evaluation and Planning" by M. Kon
+The last books read:
+"Java Script" K. Chinnathambi
+"Java Script" E. Freeman E. Rozon.
+"Testing dot Com" by R. Savin
+"Java" D. Loch
+"Agile Project Evaluation and Planning" by M. Kon
 
-##Sports:
+Sports:
 Aikido
 Yoga
 Golf
@@ -63,7 +63,7 @@ Horse riding
 Rock-climbing
 Yachting
 
-### You can contact me:
+You can contact me:
 [<img align = "left" width = "26 px" alt = "linkedin" src = "https://cdn-icons-png.flaticon.com/512/145/145807.png" />][linkedin]
 
 [<img align = "left" width = "26 px" alt = "facebook" src = "https://cdn-icons-png.flaticon.com/128/145/145802.png" />]
