@@ -37,18 +37,16 @@ Skills and Tools
 <img align = "left" width = "36 px" alt = "html " src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
 <br />
 
-<img align = "left" width = "36 px" alt = "mongoose" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png"/>
+<img align = "left" width = "46 px" alt = "mongoose" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png"/>
 <br />
 
 <img align = "left" width = "36 px" alt = "mongodb" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"/>
 <br />
 <img align = "left" width = "36 px" alt = "jira" src ="https://cdn-icons-png.flaticon.com/128/5968/5968875.png"/>
 <br />
-
 <img align = "left" width = "36 px" alt = "figma" src ="https://cdn-icons-png.flaticon.com/128/5968/5968705.png"/>
+<br />
 
-<br />
-<br />
 
 Like:
 -Asia.  -Japanese   -Travel  
