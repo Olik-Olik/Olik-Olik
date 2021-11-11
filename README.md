@@ -18,25 +18,20 @@ Hello, I am Olga, web developer.
 Skills and Tools
 
 <img align = "left" width = "26 px" alt = "css"  src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-
+<br />
 <img align = "left" width = "26 px" alt = "js" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-
-
+<br />
 <img align = "left" width = "26 px" alt = "react" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-
+<br />
 <img align = "left" width = "26 px" alt = "nodejs " src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <br />
-<br />
-
 <img align = "left" width = "26 px" alt = "bash" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" />
-
+<br />
 <img align = "left" width = "26 px" alt = "express" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />
-
-
+<br />
 <img align = "left" width = "26 px" alt = "eslint" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png" />
-
+<br />
 <img align = "left" width = "26 px" alt = "git" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-
 <br />
 <br />
 <img align = "left" width = "26 px" alt = "html " src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
