@@ -43,24 +43,46 @@ Skills and Tools
 
 <img align = "left" width = "26 px" alt = "figma" src ="https://cdn-icons-png.flaticon.com/128/5968/5968705.png"/>
 
+<br />
+<br />
+<br />
+
+
 Like:
+
+
 -Asia
+
 -Japanese
+
 -Travel
 
 The last books read:
+
 -"Java Script" K. Chinnathambi
+
 -"Java Script" E. Freeman E. Rozon
+
 -"Testing dot Com" by R. Savin
+
 -"Java" D. Loch
+
 -"Agile Project Evaluation and Planning" by M. Kon
 
+
+
 Sports:
+
 -Aikido
+
 -Yoga
+
 -Golf
+
 -Horse riding
+
 -Rock-climbing
+
 -Yachting
 
 You can contact me:
