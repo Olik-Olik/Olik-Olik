@@ -42,7 +42,7 @@ Skills and Tools
 <img align = "left" width = "36 px" alt = "jira" src ="https://cdn-icons-png.flaticon.com/128/5968/5968875.png"/>
 <p/>
 <img align = "left" width = "36 px" alt = "figma" src ="https://cdn-icons-png.flaticon.com/128/5968/5968705.png"/>
-<p/>
+<br />
 
 Like:
 -Asia.  -Japanese   -Travel  
