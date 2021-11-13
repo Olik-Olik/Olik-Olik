@@ -24,27 +24,28 @@ Skills and Tools
 <img align = "left" width = "36 px" alt = "react" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <p/>
 <img align = "left" width = "36 px" alt = "nodejs " src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<br />
+<p/>
 <img align = "left" width = "36 px" alt = "bash" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" />
-<br />
+<p/>
 <img align = "left" width = "36 px" alt = "express" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />
 <p/>
 <img align = "left" width = "36 px" alt = "eslint" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png" />
-<br />
+<p/>
 <img align = "left" width = "36 px" alt = "git" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <p/>
 <img align = "left" width = "36 px" alt = "html " src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
 <p/>
 <img align = "left" width = "46 px" alt = "mongoose" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png"/>
-<br />
+<p/>
 <img align = "left" width = "36 px" alt = "mongodb" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"/>
-<br />
+<p/>
 <img align = "left" width = "36 px" alt = "jira" src ="https://cdn-icons-png.flaticon.com/128/5968/5968875.png"/>
 <p/>
 <img align = "left" width = "36 px" alt = "figma" src ="https://cdn-icons-png.flaticon.com/128/5968/5968705.png"/>
 <br />
 
 Like:
+<p/>
 Asia
 <p/>
 Japanese
@@ -63,6 +64,7 @@ The last books read:
 <br />
 <br />
 Sports:
+<p/>
 Aikido
 <p/>
 Yoga
