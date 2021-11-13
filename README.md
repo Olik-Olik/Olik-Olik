@@ -18,11 +18,11 @@ Hello, I am Olga, web developer.
 Skills and Tools
 
 <img align = "left" width = "36 px" alt = "css"  src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<br />
+<p />
 <img align = "left" width = "36 px" alt = "js" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<br />
+<p/>
 <img align = "left" width = "36 px" alt = "react" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-
+<p/>
 <img align = "left" width = "36 px" alt = "nodejs " src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <br />
 <img align = "left" width = "36 px" alt = "bash" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" />
