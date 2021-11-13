@@ -88,7 +88,8 @@ You can contact me:
 
 <img align = "left" width = "26 px" alt = "facebook" src = "https://cdn-icons-png.flaticon.com/128/145/145802.png" /> https://www.facebook.com/profile.php?id=100000879196200
 
-<img align = "left" width = "26 px" alt = "tw" src = "https://cdn-icons-png.flaticon.com/128/145/145812.png" /> 
+<!--
+**<img align = "left" width = "26 px" alt = "tw" src = "https://cdn-icons-png.flaticon.com/128/145/145812.png" /> -->
 
 
 <img align = "left" width = "26 px" alt = "tw" src = "https://cdn-icons-png.flaticon.com/128/1409/1409946.png" />https://www.instagram.com/olikvelox/
