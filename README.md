@@ -55,13 +55,11 @@ Travel
 <p/>
 <br />
 <br />
-The last books read:
+You can contact me:
+<p/>
+<img align = "left" width = "26 px" alt = "linkedin" src = "https://cdn-icons-png.flaticon.com/512/145/145807.png" />https://www.linkedin.com/in/olga-sanina-3
 
--"Java Script" K. Chinnathambi.  -"Java Script" E. Freeman E. Rozon
-
--"Testing dot Com" by R. Savin.    -"Java" D. Loch
-
--"Agile Project Evaluation and Planning" by M. Kon
+<img align = "left" width = "26 px" alt = "facebook" src = "https://cdn-icons-png.flaticon.com/128/145/145802.png" /> https://www.facebook.com/profile.php?id=100000879196200
 <br />
 <br />
 Sports:
@@ -81,16 +79,20 @@ Yachting
 <br />
 <br />
 
-
-You can contact me:
-<p/>
-<img align = "left" width = "26 px" alt = "linkedin" src = "https://cdn-icons-png.flaticon.com/512/145/145807.png" />https://www.linkedin.com/in/olga-sanina-3
-
-<img align = "left" width = "26 px" alt = "facebook" src = "https://cdn-icons-png.flaticon.com/128/145/145802.png" /> https://www.facebook.com/profile.php?id=100000879196200
-
 <!--
 **<img align = "left" width = "26 px" alt = "tw" src = "https://cdn-icons-png.flaticon.com/128/145/145812.png" /> -->
 
 
 <img align = "left" width = "26 px" alt = "tw" src = "https://cdn-icons-png.flaticon.com/128/1409/1409946.png" />https://www.instagram.com/olikvelox/
+
+
+The last books read:
+
+-"Java Script" K. Chinnathambi.  -"Java Script" E. Freeman E. Rozon
+
+-"Testing dot Com" by R. Savin.    -"Java" D. Loch
+
+-"Agile Project Evaluation and Planning" by M. Kon
+
+
 
