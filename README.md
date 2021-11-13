@@ -16,6 +16,7 @@ Hi there 👋
 Hello, I am Olga, web developer.
 
 Skills and Tools
+Стек:   HTML5,  CSS3,  JavaScript,  React,  Git,  Figma,   Express,  Jira 
 
 <img align = "left" width = "36 px" alt = "css"  src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <p />
