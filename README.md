@@ -72,11 +72,8 @@ You can contact me:
 <br />
 Sports:
 <p/>
-Aikido
-<img align = "left" width = "36 px" alt = "Aikido" src = "https://image.shutterstock.com/image-vector/karate-kick-260nw-322066976.jpg" />
-<p/>
 Golf
-<img align = "left" width = "36 px" alt = "Golf" src = "https://img.icons8.com/external-wanicon-flat-wanicon/2x/external-golf-sport-wanicon-flat-wanicon.png" />
+<img align = "left" width = "36 px" alt = "Golf" src = "https://img.icons8.com/external-wanicon-flat-wanicon/2x/external-golf-sport-wanicon-flat-wanicon.png"/>
 <p/>
 Horse riding
 <img align = "left" width = "36 px" alt = "Horse riding" src = "https://img.icons8.com/color/2x/woman-on-a-horse.png" />
@@ -89,6 +86,9 @@ Yachting
 <p/>
 Yoga
 <img align = "left" width = "36 px" alt = "Yoga" src = "https://image.shutterstock.com/image-vector/black-white-yoga-icon-vector-260nw-1082555045.jpg" />
+<p/>
+Aikido
+<img align = "left" width = "36 px" alt = "Aikido" src = "https://image.shutterstock.com/image-vector/karate-kick-260nw-322066976.jpg"/>
 <p/>
 <br />
 <br />
