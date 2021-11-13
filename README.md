@@ -82,7 +82,7 @@ Yoga
 <p/>
 Golf
 <p/>
-<img align = "left" width = "36 px" alt = "Golf" src = " https://img.icons8.com/external-wanicon-lineal-wanicon/2x/external-golf-free-time-wanicon-lineal-wanicon.png" />
+<img align = "left" width = "36 px" alt = "Golf" src = " https://img.icons8.com/external-wanicon-flat-wanicon/2x/external-golf-sport-wanicon-flat-wanicon.png" />
 <p/>
 Horse riding
 <p/>
@@ -90,7 +90,7 @@ Horse riding
 <p/>
 Rock-climbing
 <p/>
-<img align = "left" width = "36 px" alt = "Rock-climbing" src = " https://img.icons8.com/emoji/2x/woman-climbing.png" />
+<img align = "left" width = "36 px" alt = "Rock-climbing" src = "https://img.icons8.com/emoji/2x/woman-climbing.png" />
 <p/>
 Yachting
 <p/>
