@@ -45,7 +45,12 @@ Skills and Tools
 <br />
 
 Like:
--Asia.  -Japanese   -Travel  
+Asia
+<p/>
+Japanese
+<p/>
+Travel
+<p/>
 <br />
 <br />
 The last books read:
@@ -58,14 +63,21 @@ The last books read:
 <br />
 <br />
 Sports:
--Aikido.   -Yoga
-
--Golf.    -Horse riding
-
--Rock-climbing.  -Yachting
-
+Aikido
+<p/>
+Yoga
+<p/>
+Golf
+<p/>
+Horse riding
+<p/>
+Rock-climbing
+<p/>
+Yachting
+<p/>
 <br />
 <br />
+
 You can contact me:
 [<img align = "left" width = "26 px" alt = "linkedin" src = "https://cdn-icons-png.flaticon.com/512/145/145807.png" />]https://www.linkedin.com/in/olga-sanina-3
 
