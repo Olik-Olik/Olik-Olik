@@ -88,7 +88,7 @@ Yoga
 <img align = "left" width = "36 px" alt = "Yoga" src = "https://image.shutterstock.com/image-vector/black-white-yoga-icon-vector-260nw-1082555045.jpg" />
 <p/>
 Aikido
-<img align = "left" width = "36 px" alt = "Aikido" src = "https://image.shutterstock.com/image-vector/karate-kick-260nw-322066976.jpg"/>
+<img align = "left" width = "30 px" alt = "Aikido" src = "https://image.shutterstock.com/image-vector/karate-kick-260nw-322066976.jpg"/>
 <p/>
 <br />
 <br />
