@@ -49,7 +49,7 @@ Skills and Tools
 Like:
 <p/>
 Asia
-<img align = "left" width = "36 px" alt = " Asia" src = "https://img.icons8.com/ios/2x/kawaii-noodle.png" />
+<img align = "left" width = "36 px" alt = " Asia" src = "https://img.icons8.com/ios/500/yacht.png" />
 <p/>
 Japanese 
 <img align = "left" width = "36 px" alt = "Japanese " src = "https://img.icons8.com/color/2x/japan.png" />
@@ -83,7 +83,7 @@ Rock-climbing
 <img align = "left" width = "36 px" alt = "Rock-climbing" src = "https://img.icons8.com/emoji/2x/woman-climbing.png" />
 <p/>
 Yachting
-<img align = "left" width = "360 px" alt = "Yachting" src = "https://img.icons8.com/ios/500/yacht.png" />
+<img align = "left" width = "36 px" alt = "Yachting" src = "https://img.icons8.com/ios/500/yacht.png" />
 <p/>
 Yoga
 <img align = "left" width = "36 px" alt = "Yoga" src = "https://image.shutterstock.com/image-vector/black-white-yoga-icon-vector-260nw-1082555045.jpg" />
