@@ -13,7 +13,7 @@ Hi there 👋
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hello, I am Olga, web developer.
+Hello, I am Olga, Front-end developer.
 
 Skills and Tools
 Стек:   HTML5,  CSS3,  JavaScript,  React,  Git,  Figma,   Express,  Jira 
