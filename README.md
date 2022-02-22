@@ -49,13 +49,13 @@ Skills and Tools
 Like:
 <p/>
 Asia
-<img align = "left" width = "36 px" alt = " Asia" src = " " />
+<img align = "left" width = "36 px" alt = " Asia" src = "https://cdn-icons-png.flaticon.com/128/804/804348.png" />
 <p/>
 Japanese 
 <img align = "left" width = "36 px" alt = "Japanese " src = "https://cdn-icons-png.flaticon.com/512/641/641852.png" />
 <p/>
 Travel
-<img align = "left" width = "36 px" alt = "Travel " src = " https://cdn-icons.flaticon.com/png/512/4346/premium/4346508.png?token=exp=1645530461~hmac=adff528c68106afd09e70a6aa4ae9919" />
+<img align = "left" width = "36 px" alt = "Travel " src = "https://cdn-icons.flaticon.com/png/128/1048/premium/1048350.png?token=exp=1645534194~hmac=3fd21c78068438d5c1bcc6e119eeb888" />
 <p/>
 <br />
 <br />
