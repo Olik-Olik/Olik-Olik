@@ -83,7 +83,7 @@ Rock-climbing
 <img align = "left" width = "36 px" alt = "Rock-climbing" src = "https://img.icons8.com/emoji/2x/woman-climbing.png" />
 <p/>
 Yachting
-<img align = "left" width = "36 px" alt = "Yachting" src = "https://img.icons8.com/color/2x/saling-skin-type-3.png" />
+<img align = "left" width = "36 px" alt = "Yachting" src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Ficons8.ru%2Ficon%2F1321%2F%25D1%258F%25D1%2585%25D1%2582%25D0%25B0&psig=AOvVaw2CLNVSIP-9vIb04Sd3yeiO&ust=1645615208817000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJj9x8GYk_YCFQAAAAAdAAAAABAJ" />
 <p/>
 Yoga
 <img align = "left" width = "36 px" alt = "Yoga" src = "https://image.shutterstock.com/image-vector/black-white-yoga-icon-vector-260nw-1082555045.jpg" />
