@@ -52,10 +52,10 @@ Asia
 <img align = "left" width = "36 px" alt = " Asia" src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2y65deTuMmW9lIvfsvQWbg-pIAYdImEo_IQ&usqp=CAU" />
 <p/>
 Japanese 
-<img align = "left" width = "36 px" alt = "Japanese " src = "с" />
+<img align = "left" width = "36 px" alt = "Japanese " src = "https://cdn-icons-png.flaticon.com/512/641/641852.png" />
 <p/>
 Travel
-<img align = "left" width = "36 px" alt = "Travel " src = " " />
+<img align = "left" width = "36 px" alt = "Travel " src = " https://cdn-icons.flaticon.com/png/512/4346/premium/4346508.png?token=exp=1645530461~hmac=adff528c68106afd09e70a6aa4ae9919" />
 <p/>
 <br />
 <br />
