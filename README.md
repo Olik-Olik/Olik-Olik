@@ -49,7 +49,7 @@ Skills and Tools
 Like:
 <p/>
 Asia
-<img align = "left" width = "36 px" alt = " Asia" src = " " />
+<img align = "left" width = "36 px" alt = " Asia" src = "https://img.icons8.com/ios/500/yacht.png" />
 <p/>
 Japanese 
 <img align = "left" width = "36 px" alt = "Japanese " src = "с" />
