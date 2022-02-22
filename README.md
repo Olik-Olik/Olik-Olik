@@ -49,13 +49,13 @@ Skills and Tools
 Like:
 <p/>
 Asia
-<img align = "left" width = "36 px" alt = " Asia" src = "https://img.icons8.com/ios/500/yacht.png" />
+<img align = "left" width = "36 px" alt = " Asia" src = " " />
 <p/>
 Japanese 
-<img align = "left" width = "36 px" alt = "Japanese " src = "https://img.icons8.com/color/2x/japan.png" />
+<img align = "left" width = "36 px" alt = "Japanese " src = "с" />
 <p/>
 Travel
-<img align = "left" width = "36 px" alt = "Travel " src = "https://img.icons8.com/external-wanicon-lineal-color-wanicon/2x/external-travel-friendship-wanicon-lineal-color-wanicon.png" />
+<img align = "left" width = "36 px" alt = "Travel " src = " " />
 <p/>
 <br />
 <br />
