@@ -49,7 +49,7 @@ Skills and Tools
 Like:
 <p/>
 Asia
-<img align = "left" width = "36 px" alt = " Asia" src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2y65deTuMmW9lIvfsvQWbg-pIAYdImEo_IQ&usqp=CAU" />
+<img align = "left" width = "36 px" alt = " Asia" src = " " />
 <p/>
 Japanese 
 <img align = "left" width = "36 px" alt = "Japanese " src = "https://cdn-icons-png.flaticon.com/512/641/641852.png" />
@@ -74,22 +74,22 @@ You can contact me:
 Sports:
 <p/>
 Golf
-<img align = "left" width = "36 px" alt = "Golf" src = "https://img.icons8.com/external-wanicon-flat-wanicon/2x/external-golf-sport-wanicon-flat-wanicon.png"/>
+<img align = "left" width = "36 px" alt = "Golf" src = "https://cdn-icons-png.flaticon.com/128/602/602415.png"/>
 <p/>
 Horse riding
-<img align = "left" width = "36 px" alt = "Horse riding" src = "https://img.icons8.com/color/2x/woman-on-a-horse.png" />
+<img align = "left" width = "36 px" alt = "Horse riding" src = "https://cdn-icons-png.flaticon.com/512/6918/6918459.png" />
 <p/>
 Rock-climbing
-<img align = "left" width = "36 px" alt = "Rock-climbing" src = "https://img.icons8.com/emoji/2x/woman-climbing.png" />
+<img align = "left" width = "36 px" alt = "Rock-climbing" src = "https://cdn-icons-png.flaticon.com/512/852/852074.png" />
 <p/>
 Yachting
-<img align = "left" width = "36 px" alt = "Yachting" src = "https://img.icons8.com/ios/500/yacht.png" />
+<img align = "left" width = "36 px" alt = "Yachting" src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2y65deTuMmW9lIvfsvQWbg-pIAYdImEo_IQ&usqp=CAU" />
 <p/>
 Yoga
-<img align = "left" width = "36 px" alt = "Yoga" src = "https://image.shutterstock.com/image-vector/black-white-yoga-icon-vector-260nw-1082555045.jpg" />
+<img align = "left" width = "36 px" alt = "Yoga" src = "https://t3.ftcdn.net/jpg/04/83/71/08/240_F_483710856_TnIvCSUkONKcW2GMfwiPw4XL8eIane5A.jpg" />
 <p/>
 Aikido
-<img align = "left" width = "30 px" alt = "Aikido" src = "https://image.shutterstock.com/image-vector/karate-kick-260nw-322066976.jpg"/>
+<img align = "left" width = "30 px" alt = "Aikido" src = "https://cdn-icons-png.flaticon.com/128/826/826654.png"/>
 <p/>
 <br />
 <br />
