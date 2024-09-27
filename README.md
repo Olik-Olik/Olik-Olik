@@ -1,9 +1,6 @@
 Hi there 👋
-
 <!--
 **Olik-Olik/Olik-Olik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -53,9 +50,6 @@ Skills and Tools
 <p/><br />
  -- figma
 <img align = "left" width = "36 px" alt = "figma" src ="https://cdn-icons-png.flaticon.com/128/5968/5968705.png"/>
-<br /><br />
-<br />
-<br />
 <br />
 <br />
 Like:
@@ -63,12 +57,9 @@ Like:
 Asia Travel
 <img align = "left" width = "36 px" alt = " Asia" src = "https://cdn-icons-png.flaticon.com/128/804/804348.png" />
 <p/>
-  <br />
+<br />
 Japanese 
 <img align = "left" width = "36 px" alt = "Japanese " src = "https://cdn-icons-png.flaticon.com/512/641/641852.png" />
-<p/>
-<br />
-
 <p/>
 <br />
 <br />
@@ -79,8 +70,6 @@ You can contact me:
 <img align = "left" width = "26 px" alt = "facebook" src = "https://cdn-icons-png.flaticon.com/128/145/145802.png" /> https://www.facebook.com/profile.php?id=100000879196200
 <!--
 **<img align = "left" width = "26 px" alt = "tw" src = "https://cdn-icons-png.flaticon.com/128/145/145812.png" /> -->
-
-
 <img align = "left" width = "26 px" alt = "tw" src = "https://cdn-icons-png.flaticon.com/128/1409/1409946.png" />https://www.instagram.com/olikvelox/
 <br />
 <br />
