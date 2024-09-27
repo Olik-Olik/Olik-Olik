@@ -45,15 +45,19 @@ Skills and Tools
 <img align = "left" width = "36 px" alt = "figma" src ="https://cdn-icons-png.flaticon.com/128/5968/5968705.png"/>
 <br />
 <br />
-
+<br />
+<br />
+<br />
 Like:
 <p/>
 Asia Travel
 <img align = "left" width = "36 px" alt = " Asia" src = "https://cdn-icons-png.flaticon.com/128/804/804348.png" />
 <p/>
+  <br />
 Japanese 
 <img align = "left" width = "36 px" alt = "Japanese " src = "https://cdn-icons-png.flaticon.com/512/641/641852.png" />
 <p/>
+<br />
 
 <p/>
 <br />
