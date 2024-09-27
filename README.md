@@ -19,31 +19,31 @@ Skills and Tools
 Стек:   HTML5,  CSS3,  JavaScript,  React,  Git,  Figma,   Express,  Jira 
 
 <img align = "left" width = "36 px" alt = "css"  src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<p />
+<p /><br />
 <img align = "left" width = "36 px" alt = "js" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<p/>
+<p/><br />
 <img align = "left" width = "36 px" alt = "react" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<p/>
+<p/><br />
 <img align = "left" width = "36 px" alt = "nodejs " src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<p/>
+<p/><br />
 <img align = "left" width = "36 px" alt = "bash" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" />
-<p/>
+<p/><br />
 <img align = "left" width = "36 px" alt = "express" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />
-<p/>
+<p/><br />
 <img align = "left" width = "36 px" alt = "eslint" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png" />
-<p/>
+<p/><br />
 <img align = "left" width = "36 px" alt = "git" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<p/>
+<p/><br />
 <img align = "left" width = "36 px" alt = "html " src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
-<p/>
+<p/><br />
 <img align = "left" width = "46 px" alt = "mongoose" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png"/>
-<p/>
+<p/><br />
 <img align = "left" width = "36 px" alt = "mongodb" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"/>
-<p/>
+<p/><br />
 <img align = "left" width = "36 px" alt = "jira" src ="https://cdn-icons-png.flaticon.com/128/5968/5968875.png"/>
-<p/>
+<p/><br />
 <img align = "left" width = "36 px" alt = "figma" src ="https://cdn-icons-png.flaticon.com/128/5968/5968705.png"/>
-<br />
+<br /><br />
 <br />
 <br />
 <br />
