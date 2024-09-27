@@ -18,7 +18,7 @@ Hello, I am Olga, Front-end developer.
 Skills and Tools
 Стек:   HTML5,  CSS3,  ,  React,  Git,  Figma,   Express,  Jira 
 
-JavaScript : <img align = "left" width = "36 px" alt = "js" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /><p/><br />
+ <img align = "left" width = "36 px" alt = "js" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /><p/><br /> JavaScript 
 <img align = "left" width = "36 px" alt = "react" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <p/><br />
   <img align = "left" width = "36 px" alt = "css"  src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
