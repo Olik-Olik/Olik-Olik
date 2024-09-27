@@ -16,13 +16,13 @@ Hi there 👋
 Hello, I am Olga, Front-end developer.
 
 Skills and Tools
-Стек:   HTML5,  CSS3,  JavaScript,  React,  Git,  Figma,   Express,  Jira 
+Стек:   HTML5,  CSS3,  ,  React,  Git,  Figma,   Express,  Jira 
 
-<img align = "left" width = "36 px" alt = "css"  src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<p /><br />
-<img align = "left" width = "36 px" alt = "js" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /><p/><br />
+JavaScript : <img align = "left" width = "36 px" alt = "js" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /><p/><br />
 <img align = "left" width = "36 px" alt = "react" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <p/><br />
+  <img align = "left" width = "36 px" alt = "css"  src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<p /><br />
 <img align = "left" width = "36 px" alt = "nodejs " src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <p/><br />
 <img align = "left" width = "36 px" alt = "bash" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" />
