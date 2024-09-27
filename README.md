@@ -105,11 +105,12 @@ Yachting
 Yoga
 <img align = "left" width = "36 px" alt = "Yoga" src = "https://t3.ftcdn.net/jpg/04/83/71/08/240_F_483710856_TnIvCSUkONKcW2GMfwiPw4XL8eIane5A.jpg" />
 <p/>
-  <br />
+<br />
 Aikido
 <img align = "left" width = "30 px" alt = "Aikido" src = "https://cdn-icons-png.flaticon.com/128/826/826654.png"/>
 <p/>
+<br /> 
 Running
-<img align = "left" width = "30 px" alt = "Running" src = "![image](https://github.com/user-attachments/assets/1e838d6f-53db-4c9d-8680-6bd827b9b9d1)"
+<img align = "left" width = "30 px" alt = "Running" src = "https://github.com/user-attachments/assets/1e838d6f-53db-4c9d-8680-6bd827b9b9d1"
 <br />
 <br />
