@@ -79,32 +79,25 @@ Sports:
 Golf
 <img align = "left" width = "36 px" alt = "Golf" src = "https://cdn-icons-png.flaticon.com/128/602/602415.png"/>
 <p/>
+<br />
 Horse riding
 <img align = "left" width = "36 px" alt = "Horse riding" src = "https://cdn-icons-png.flaticon.com/512/6918/6918459.png" />
 <p/>
+<br />  
 Rock-climbing
 <img align = "left" width = "36 px" alt = "Rock-climbing" src = "https://cdn-icons-png.flaticon.com/512/852/852074.png" />
 <p/>
+<br />
 Yachting
 <img align = "left" width = "36 px" alt = "Yachting" src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2y65deTuMmW9lIvfsvQWbg-pIAYdImEo_IQ&usqp=CAU" />
 <p/>
+<br />
 Yoga
 <img align = "left" width = "36 px" alt = "Yoga" src = "https://t3.ftcdn.net/jpg/04/83/71/08/240_F_483710856_TnIvCSUkONKcW2GMfwiPw4XL8eIane5A.jpg" />
 <p/>
+  <br />
 Aikido
 <img align = "left" width = "30 px" alt = "Aikido" src = "https://cdn-icons-png.flaticon.com/128/826/826654.png"/>
 <p/>
 <br />
 <br />
-
-
-The last books read:
-
--"Java Script" K. Chinnathambi.  -"Java Script" E. Freeman E. Rozon
-
--"Testing dot Com" by R. Savin.    -"Java" D. Loch
-
--"Agile Project Evaluation and Planning" by M. Kon
-
-
-
